@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d29da253.css",
+    "main.js": "/static/js/main.8f2706f6.js",
+    "static/media/The Jamsil-Medium.ttf": "/static/media/The Jamsil-Medium.f12c5b209095c9f78c94.ttf",
+    "static/media/The Jamsil-Bold.ttf": "/static/media/The Jamsil-Bold.a7b23196c7e6243eeb68.ttf",
+    "static/media/The Jamsil-ExtraBold.ttf": "/static/media/The Jamsil-ExtraBold.3c4d88ccf84c4b3e653d.ttf",
+    "static/media/img_BackgroundImage.png": "/static/media/img_BackgroundImage.cb5dd984124de66fd031.png",
+    "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.4f014c89a910a1936217.ttf",
+    "static/media/img_list_BackgroundPic.png": "/static/media/img_list_BackgroundPic.22178ba5bd99cef83e24.png",
+    "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.29c3b627c19a378074e6.ttf",
+    "static/media/img_group_background.png": "/static/media/img_group_background.c6760b72ddf0d2bf19e3.png",
+    "index.html": "/index.html",
+    "main.d29da253.css.map": "/static/css/main.d29da253.css.map",
+    "main.8f2706f6.js.map": "/static/js/main.8f2706f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d29da253.css",
+    "static/js/main.8f2706f6.js"
+  ]
+}
